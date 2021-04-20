@@ -36,6 +36,15 @@ img {
     width: 100%;
 }
 
+a {
+    text-decoration: none;
+    color: rgba(67, 16, 195);
+}
+
+a:hover {
+    color: brown;
+}
+
 /* CONTENEDOR */
 
 .contenedor {
