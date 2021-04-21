@@ -21,6 +21,8 @@ Carlos arturo Esparza de Falcion Masters : http://www.falconmasters.com/
 
 JeanCarlos Molina Hostia de J&G Proyectos Web : https://jygproyectosweb.com/
 
+Icono Twitter : Bird by rivercon from the Noun Project
+
 # Autor 
 
 Adrián Zarza García : https://www.encarnegin.com/
