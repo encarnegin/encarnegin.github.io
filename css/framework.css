@@ -169,7 +169,7 @@ a:hover {
 }
 
 .nav {
-    background: rgba(67, 16, 195);
+    background: #4310c3;
     display: flex;
     flex-wrap: wrap;
 }
@@ -179,6 +179,7 @@ a:hover {
     flex-wrap: wrap;
     margin: 0px auto;
 }
+
 
 .nav a {
     color: #fff;
@@ -193,14 +194,18 @@ a:hover {
 
 .nav a.activo,
 .nav a:hover {
-    background: rgba(89,59,221);
+    background: #5936bd;
 }
 
 .nav img {
-    width: 4%;
-    margin: 5px 5px;
+   width: auto;
+    height: auto;
+    padding: 4px;
 }
 
+@media screen and (max-width: 576px) {
+    .peq-logo
+}
 /* FUENTES */
 
 h1, h2, h3, h4, h5, h6 {
