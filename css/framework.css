@@ -198,14 +198,12 @@ a:hover {
 }
 
 .nav img {
-   width: auto;
+    width: auto;
     height: auto;
     padding: 4px;
 }
 
-@media screen and (max-width: 576px) {
-    .peq-logo
-}
+
 /* FUENTES */
 
 h1, h2, h3, h4, h5, h6 {
